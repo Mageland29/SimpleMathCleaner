@@ -1,2 +1,2 @@
 # SimpleMathCleaner
-  Simple Math Cleaner with invoke method for generic use
+ Here is a simple project to which uses invoke in a more generic way to solve math, I was supposed to get it out a long time ago but I didn't know how to use Github lol, to use this tool you must have cleaned up the mutations for that the arguments are clean.
